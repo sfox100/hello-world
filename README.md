@@ -1,2 +1,3 @@
 # hello-world
-Git-Hub Project 1
+
+Hi, Seb here, learning how to code.
